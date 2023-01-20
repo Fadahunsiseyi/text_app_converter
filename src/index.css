@@ -75,3 +75,19 @@ nav li:nth-child(4) {
   border-left: 1px solid #c8c6c6;
   padding-left: 0.5rem;
 }
+
+.details_container{
+    padding: 1rem 0.5rem;
+}
+
+.details_container h1{
+    font-size: 1.5rem;
+    margin: 1rem 0;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #cac6c6;
+}
+
+.details_container p {
+    color: #6d6868;
+    line-height: 2;
+}
