@@ -1,6 +1,5 @@
-
 const createOption = (option) => {
-  const { title, description,type } = option;
+  const { title, description, type } = option;
   return `
     <button class="popup_item" data-type="${type}">
     <div>

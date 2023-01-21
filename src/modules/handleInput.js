@@ -37,7 +37,7 @@ const handleInput = (input = document.getElementById('1')) => {
       const sel = window.getSelection();
       range.setStart(
         previousInput.childNodes[0] || previousInput,
-        previousInput.textContent.length
+        previousInput.textContent.length,
       );
       sel.removeAllRanges();
       sel.addRange(range);

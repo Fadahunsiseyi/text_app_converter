@@ -1,4 +1,4 @@
-import {optionsData} from './.data.js';
+import { optionsData } from './.data.js';
 import createOption from './createOption.js';
 
 let flag = false;
