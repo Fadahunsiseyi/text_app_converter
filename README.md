@@ -1,5 +1,5 @@
 
-# TEXT_APPLICATION_CONVERTER.
+# TEXT_APPLICATION_CONVERTER..
 
 > The goal of this project, is to make a page that looks exactly like this one,  and has the ability to create h1 test simply by typing / then 1, then typing text and hitting enter.
 
