@@ -1,7 +1,7 @@
 
 # TEXT_APPLICATION_CONVERTER..
 
-> [The goal of this project, is to make a page that looks exactly like this one,  and has the ability to create h1 test simply by typing / then 1, then typing text and hitting enter.](https://fadahunsiseyi.github.io/text_app_converter/)
+> A a JavaScript-powered application that merges the fluidity of Notion with the flexibility of a text formatting utility. I meticulously developed this innovative tool, allowing users to effortlessly enhance their text documents with a vast array of formatting options.
 
 ## Live Demo
 
